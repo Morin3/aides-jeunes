@@ -72,7 +72,7 @@
     "dotenv": "^16.4.5",
     "errorhandler": "^1.5.1",
     "event-stream": "4.0.1",
-    "express": "^4.21.1",
+    "express": "^5.2.1",
     "express-validator": "^7.2.0",
     "haversine": "^1.1.1",
     "@iframe-resizer/parent": "^5.3.2",
@@ -100,7 +100,7 @@
     "vue-matomo": "^4.2.0",
     "vue-router": "^4.1.6",
     "webpack-cli": "^4.10.0",
-    "webpack-dev-server": "^4.7.3"
+    "webpack-dev-server": "^6.0.0"
   },
   "devDependencies": {
     "@sentry/vite-plugin": "^2.22.4",
@@ -118,8 +118,8 @@
     "@vue/vue3-jest": "^29.2.4",
     "argparse": "^2.0.1",
     "concurrently": "^7.4.0",
-    "cypress": "^13.2.0",
-    "cypress-axe": "^1.5.0",
+    "cypress": "^16.0.0",
+    "cypress-axe": "^1.7.0",
     "eslint": ">=7.32.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-cypress": "^2.12.1",
